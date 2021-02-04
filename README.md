@@ -41,7 +41,7 @@
 
 ----
 
-## Guias para organizar as descrições de seus projetos (Markdown):
+### Guias para organizar as descrições de seus projetos (Markdown):
 
 - https://about.gitlab.com/handbook/markdown-guide/
 
