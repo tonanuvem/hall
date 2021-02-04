@@ -14,14 +14,19 @@ Objetivos:
 
 #### Turmas AOJ e SCJ
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+| Default aligned | Left aligned | Center aligned  | Right aligned  |
+|-----------------|:-------------|:---------------:|---------------:|
+| First body part | Second cell  | Third cell      | fourth cell    |
+|-----------------+--------------+-----------------+----------------|
+
 
 ### 2019
 
 #### Turmas AOJ e SCJ
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 <details>
-  <summary markdown="span">This is the summary text, click me to expand</summary>
+  <summary markdown="span">Detalhes sobre o projeto </summary>
 
   This is the detailed text.
 
