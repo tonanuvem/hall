@@ -1,30 +1,24 @@
 # Startup One no MBA FIAP
 
-Exemplos de trabalhos:
+## Exemplos de trabalhos:
 
-## 2020
+### 2020
 
-### Heading h3
-
-#### Heading h4
+#### Turmas AOJ e SCJ
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-## 2019
+### 2019
 
-### Heading h3
+#### Turmas AOJ e SCJ
 
-#### Heading h4
+### 2018
 
-## 2018
-
-### Heading h3
-
-#### Heading h4
+#### Turmas AOJ e SCJ
 
 ----
 
-Guias para organizar as descrições de seus projetos (Markdown):
+## Guias para organizar as descrições de seus projetos (Markdown):
 
 - https://about.gitlab.com/handbook/markdown-guide/
 
