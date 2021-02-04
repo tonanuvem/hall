@@ -10,19 +10,16 @@ Objetivos:
 
 ## Exemplos de trabalhos:
 
-### 2020
+### Videos
 
-#### Turmas AOJ e SCJ
+#### 2020
 
 | Default aligned | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
 | First body part | Second cell  | Third cell      | fourth cell    |
 |-----------------+--------------+-----------------+----------------|
 
-
-### 2019
-
-#### Turmas AOJ e SCJ
+#### 2019
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 <details>
@@ -47,9 +44,9 @@ Objetivos:
 
 </details>
 
-### 2018
+### Printscreens
 
-#### Turmas AOJ e SCJ
+#### 2018
 
 
 
