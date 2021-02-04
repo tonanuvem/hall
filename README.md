@@ -1,6 +1,12 @@
-# Startup One no MBA FIAP
+# HALL DA FAMA :sunglasses: 
 
-:sunglasses:
+## Startup One no MBA FIAP
+
+Objetivos: 
+
+- Difundir o conhecimento de projetos apresentados.
+
+- Ter uma ideia de como pode ser feito o vídeo com a explicação do seu projeto.
 
 ## Exemplos de trabalhos:
 
