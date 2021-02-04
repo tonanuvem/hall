@@ -1,6 +1,6 @@
 # HALL DA FAMA :sunglasses: 
 
-## Startup One no MBA FIAP
+## Startup One - MBA FIAP
 
 Objetivos: 
 
@@ -40,7 +40,7 @@ Objetivos:
 | Second line     | foo          | **strong**      | baz            |
 | Third line      | quux         | baz             | bar            |
 |-----------------+--------------+-----------------+----------------|
-| Second body     |              |                 |                |
+| Second body     | x            | x               | x              |
 | 2nd line        |              |                 |                |
 |-----------------+--------------+-----------------+----------------|
 | Third body      |              |                 | Foo            |
