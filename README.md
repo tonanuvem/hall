@@ -8,18 +8,20 @@ Objetivos:
 
 - Ter uma ideia de como pode ser feito o vídeo com a explicação do seu projeto.
 
+<br>
+
 ## Exemplos de trabalhos:
 
 ### Videos
 
-#### 2020
+#### Equipes
 
 | Default aligned | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
 | First body part | Second cell  | Third cell      | fourth cell    |
 |-----------------+--------------+-----------------+----------------|
 
-#### 2019
+#### Equipes
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 <details>
@@ -46,7 +48,7 @@ Objetivos:
 
 ### Printscreens
 
-#### 2018
+#### Equipes
 
 
 
