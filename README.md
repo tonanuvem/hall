@@ -46,3 +46,5 @@
 - https://about.gitlab.com/handbook/markdown-guide/
 
 - https://guides.github.com/features/mastering-markdown/
+
+- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
