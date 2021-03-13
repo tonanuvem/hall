@@ -35,7 +35,9 @@ Objetivos:
 
 ##### MetWorking
 <details>
-  https://www.youtube.com/watch?v=9qyUK8s4q6s
+  <summary markdown="span">Videos e/ou telas </summary>
+    <br>- https://www.youtube.com/watch?v=9qyUK8s4q6s
+    <br>- https://drive.google.com/file/d/1NwcoLJFQZO-J8AliEkvDOXfRna_tWdtO/view?usp=sharing
   <summary markdown="span">Detalhes sobre o projeto </summary>
     <br>- https://github.com/CaioRagazzi/MetworkingUserAPI
     <br>- https://github.com/erickfaraujo/MetWorkingMatchAPI
