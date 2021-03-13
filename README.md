@@ -18,7 +18,7 @@ Objetivos:
 
 | Default aligned | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
-| First body part | Second cell  | Third cell      | fourth cell    |
+| [Everything Is AWESOME] | Second cell  | Third cell      | fourth cell    |
 |-----------------+--------------+-----------------+----------------|
 
 #### Projetos
