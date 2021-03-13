@@ -61,13 +61,6 @@
 </details>
 
 
-#### Equipes
-
-| Default aligned | Left aligned | Center aligned  | Right aligned  |
-|-----------------|:-------------|:---------------:|---------------:|
-| x.              | Second cell  | Third cell      | fourth cell    |
-|-----------------+--------------+-----------------+----------------|
-
 ### Fim
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
