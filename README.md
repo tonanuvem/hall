@@ -14,15 +14,6 @@ Objetivos:
 
 ### Videos e screens
 
-#### Equipes
-
-| Default aligned | Left aligned | Center aligned  | Right aligned  |
-|-----------------|:-------------|:---------------:|---------------:|
-| x.              | Second cell  | Third cell      | fourth cell    |
-|-----------------+--------------+-----------------+----------------|
-
-#### Projetos
-
 | [MetWorking]      | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
 | ![MetWorking][MetWorkingIMG] | Second cell  | Third cell      | fourth cell    |
@@ -71,11 +62,13 @@ Objetivos:
 
 </details>
 
-### Printscreens
 
 #### Equipes
 
-
+| Default aligned | Left aligned | Center aligned  | Right aligned  |
+|-----------------|:-------------|:---------------:|---------------:|
+| x.              | Second cell  | Third cell      | fourth cell    |
+|-----------------+--------------+-----------------+----------------|
 
 ----
 
