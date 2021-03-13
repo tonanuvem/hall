@@ -14,18 +14,16 @@
 
 ### Videos e screens
 
-| MetWorking      | Left aligned | Center aligned  | Right aligned  |
+| MetWorking [ver detalhes](#MetWorking)     | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
 | ![alt text][MetWorkingIMG] | Reference-style: ![alt text][logo]  | Third cell      | fourth cell    |
-| [ver detalhes](#MetWorking) | Second cell  | Third cell      | fourth cell    |
+|                 | Second cell  | Third cell      | fourth cell    |
 |-----------------+--------------+-----------------+----------------|
 
 [MetWorkingIMG]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
 [MetWorking]: https://www.youtube.com/watch?v=9qyUK8s4q6s
 
-
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[![MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking")
 
 ### Repositorios e detalhes
 
