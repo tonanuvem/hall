@@ -17,8 +17,12 @@
 | MetWorking ([ver detalhes](#MetWorking))     | Left aligned                        | Center aligned  | Right aligned  |
 |----------------------------------------------|:------------------------------------|:---------------:|---------------:|
 | ![alt text][MetWorkingIMG]                   | Reference-style: ![alt text][logo]  | Third cell      | fourth cell    |
-| Third body                                   |                                     |                 | Foo            |
+
 | MetWorking ([ver detalhes](#MetWorking))     | Left aligned                        | Center aligned  | Right aligned  |
+|----------------------------------------------|:------------------------------------|:---------------:|---------------:|
+| ![alt text][MetWorkingIMG]                   | Reference-style: ![alt text][logo]  | Third cell      | fourth cell    |
+
+
 
 [MetWorkingIMG]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
 [MetWorking]: https://www.youtube.com/watch?v=9qyUK8s4q6s
