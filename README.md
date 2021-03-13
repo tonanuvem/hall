@@ -12,7 +12,7 @@ Objetivos:
 
 ## Exemplos de trabalhos:
 
-### Videos
+### Videos e screens
 
 #### Equipes
 
@@ -23,17 +23,19 @@ Objetivos:
 
 #### Projetos
 
-| Default aligned | Left aligned | Center aligned  | Right aligned  |
+| MetWorking      | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
+| [!(https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s) | Second cell  | Third cell      | fourth cell    |
 | First body part | Second cell  | Third cell      | fourth cell    |
 |-----------------+--------------+-----------------+----------------|
 
-#### Equipes
+### Repositorios e detalhes
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-<ol>MetWorking</ol>
+##### MetWorking
 <details>
+  https://www.youtube.com/watch?v=9qyUK8s4q6s
   <summary markdown="span">Detalhes sobre o projeto </summary>
     <br>- https://github.com/CaioRagazzi/MetworkingUserAPI
     <br>- https://github.com/erickfaraujo/MetWorkingMatchAPI
