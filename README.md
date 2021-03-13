@@ -21,9 +21,27 @@ Objetivos:
 | First body part | Second cell  | Third cell      | fourth cell    |
 |-----------------+--------------+-----------------+----------------|
 
+#### Projetos
+
+| Default aligned | Left aligned | Center aligned  | Right aligned  |
+|-----------------|:-------------|:---------------:|---------------:|
+| First body part | Second cell  | Third cell      | fourth cell    |
+|-----------------+--------------+-----------------+----------------|
+
 #### Equipes
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+<ol>MetWorking![image](https://user-images.githubusercontent.com/38731039/111039612-adc8ee80-840d-11eb-9e1c-4df018e73585.png)</ol>
+<details>
+  <summary markdown="span">Detalhes sobre o projeto </summary>
+- https://github.com/CaioRagazzi/MetworkingUserAPI
+- https://github.com/erickfaraujo/MetWorkingMatchAPI
+- https://github.com/martinsleandros/MetworkingGeoAPI
+- https://github.com/jhun/MetworkingFrontend
+</details>
+
+<ol>Exemplo</ol>
 <details>
   <summary markdown="span">Detalhes sobre o projeto </summary>
 
