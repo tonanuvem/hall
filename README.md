@@ -35,17 +35,17 @@ Objetivos:
 
 #### MetWorking
 <details>
-  <ul> Videos e/ou telas: </ul>
+  * Videos e/ou telas:
     <br>- https://www.youtube.com/watch?v=9qyUK8s4q6s
     <br>- https://drive.google.com/file/d/1NwcoLJFQZO-J8AliEkvDOXfRna_tWdtO/view?usp=sharing
-  <ul> Repos: </ul>
+ * Repos:
     <br>- https://github.com/CaioRagazzi/MetworkingUserAPI
     <br>- https://github.com/erickfaraujo/MetWorkingMatchAPI
     <br>- https://github.com/martinsleandros/MetworkingGeoAPI
     <br>- https://github.com/jhun/MetworkingFrontend
 </details>
 
-<ol>Exemplo</ol>
+#### MetWorking
 <details>
   <summary markdown="span">Detalhes sobre o projeto </summary>
 
