@@ -14,14 +14,14 @@ Objetivos:
 
 ### Videos e screens
 
-| [MetWorking]      | Left aligned | Center aligned  | Right aligned  |
+| MetWorking      | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
 | ![alt text][MetWorkingIMG] | Reference-style: ![alt text][logo]  | Third cell      | fourth cell    |
-| First body part | Second cell  | Third cell      | fourth cell    |
+| [ver detalhes](#MetWorking) | Second cell  | Third cell      | fourth cell    |
 |-----------------+--------------+-----------------+----------------|
 
 [MetWorkingIMG]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
-[MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
+[MetWorking]: https://www.youtube.com/watch?v=9qyUK8s4q6s
 
 
 
