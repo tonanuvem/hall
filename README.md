@@ -14,7 +14,7 @@
 
 ### Videos e screens
 
-| MetWorking [ver detalhes](#MetWorking)     | Left aligned | Center aligned  | Right aligned  |
+| MetWorking ([ver detalhes](#MetWorking))     | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
 | ![alt text][MetWorkingIMG] | Reference-style: ![alt text][logo]  | Third cell      | fourth cell    |
 | [![alt text][MetWorkingIMG2]]                | Second cell  | Third cell      | fourth cell    |
