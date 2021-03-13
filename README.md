@@ -23,7 +23,7 @@
 [MetWorkingIMG]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
 [MetWorking]: https://www.youtube.com/watch?v=9qyUK8s4q6s
 
-[[MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking")
+[[MetworkingIMG2]:(https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking")
 
 ### Repositorios e detalhes
 
