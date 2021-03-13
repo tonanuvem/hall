@@ -28,8 +28,7 @@
 
 #### MetWorking
 <details>
-  <br> Visualizar:
-    [![MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking")  
+[![MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking")  
   <br> Videos e/ou telas:
     <br>- https://www.youtube.com/watch?v=9qyUK8s4q6s
     <br>- https://drive.google.com/file/d/1NwcoLJFQZO-J8AliEkvDOXfRna_tWdtO/view?usp=sharing
@@ -74,6 +73,7 @@
 ### Fim
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 
 ----
 
