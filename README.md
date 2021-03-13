@@ -16,7 +16,7 @@ Objetivos:
 
 | [MetWorking]      | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
-| ![MetWorking][MetWorkingIMG] | Second cell  | Third cell      | fourth cell    |
+| ![alt text][MetWorkingIMG] | Second cell  | Third cell      | fourth cell    |
 | First body part | Second cell  | Third cell      | fourth cell    |
 |-----------------+--------------+-----------------+----------------|
 
