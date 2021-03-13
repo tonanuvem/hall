@@ -18,7 +18,7 @@ Objetivos:
 
 | Default aligned | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
-| [Everything Is AWESOME] | Second cell  | Third cell      | fourth cell    |
+| ![Every][Everything Is AWESOME] | Second cell  | Third cell      | fourth cell    |
 |-----------------+--------------+-----------------+----------------|
 
 #### Projetos
