@@ -25,11 +25,12 @@ Objetivos:
 
 | MetWorking      | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
-| ![MetWorking][identifier] | Second cell  | Third cell      | fourth cell    |
+| ![MetWorking][MetWorkingIMG] | Second cell  | Third cell      | fourth cell    |
 | First body part | Second cell  | Third cell      | fourth cell    |
 |-----------------+--------------+-----------------+----------------|
 
-[identifier]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
+[MetWorkingIMG]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
+[MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
 
 ### Repositorios e detalhes
 
