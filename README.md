@@ -42,7 +42,7 @@
     <br>- https://github.com/jhun/MetworkingFrontend
 </details>
 
-#### MetWorking
+#### Exemplos
 <details>
   <summary markdown="span">Detalhes sobre o projeto </summary>
 
