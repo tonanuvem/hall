@@ -29,7 +29,7 @@ Objetivos:
 | First body part | Second cell  | Third cell      | fourth cell    |
 |-----------------+--------------+-----------------+----------------|
 
-[identifier]: https://img.youtube.com/vi/9qyUK8s4q6s/2.jpg
+[identifier]: https://img.youtube.com/vi/9qyUK8s4q6s/3.jpg
 
 ### Repositorios e detalhes
 
