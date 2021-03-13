@@ -16,12 +16,16 @@ Objetivos:
 
 | [MetWorking]      | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
-| ![alt text][MetWorkingIMG] | Second cell  | Third cell      | fourth cell    |
+| ![alt text][MetWorkingIMG] | Reference-style: ![alt text][logo]  | Third cell      | fourth cell    |
 | First body part | Second cell  | Third cell      | fourth cell    |
 |-----------------+--------------+-----------------+----------------|
 
 [MetWorkingIMG]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
+
+
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ### Repositorios e detalhes
 
