@@ -18,17 +18,18 @@
 |----------------------------------------------|:----------------------------------------|
 | ![alt text][MetWorkingIMG]                   | ![alt text][AgendaeIMG]                 | 
 
-| MetWorking ([ver detalhes](#MetWorking))     | Left aligned                        | Center aligned  | Right aligned  |
-|----------------------------------------------|:------------------------------------|:---------------:|---------------:|
-| [![MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking") |  | Third cell      | fourth cell    |
+| MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     |
+|----------------------------------------------|:----------------------------------------|
+| [![MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking") 
+| [![MetworkingIMG2](https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif)](https://www.loom.com/share/123aaeae32f943c7870dadfc280d5382 "Metworking") |
 
-[![MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg =100x20)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking")
+[![MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking")
 
 
 [MetWorkingIMG]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
 [MetWorking]: https://www.youtube.com/watch?v=9qyUK8s4q6s
 
-[AgendaeIMG]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif =100x20
+[AgendaeIMG]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Agendae]: https://www.loom.com/share/123aaeae32f943c7870dadfc280d5382
 
 <a href="">
