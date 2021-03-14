@@ -20,7 +20,7 @@
 
 | Smart Sallon ([ver detalhes](#Smart Sallon)) | Employee Manager ([ver detalhes](#Employee Manager)) |    |
 |:--------------------------------------------:|:----------------------------------------------------:|:--:|
-| ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        |    |
+| ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        |  ![][Caderneta]  |
 
 
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
@@ -28,7 +28,7 @@
 [Caderneta]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Smart Sallon]: https://github.com/jovtrc.png?size=350
 [Employee Manager]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
-
+[blank]: https://github.com/tonanuvem.png?size=350
 ----
   
 ## Repositorios e detalhes
