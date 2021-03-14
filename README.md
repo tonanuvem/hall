@@ -23,7 +23,7 @@
 | ![alt text][MetWorkingIMG]                   | ![alt text][AgendaeIMG]                 | ![alt text][CadernetaIMG]               |
 
 
-[MetWorkingIMG]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
+[MetWorkingIMG]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [AgendaeIMG]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [CadernetaIMG]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 
