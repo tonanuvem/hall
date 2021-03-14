@@ -26,7 +26,7 @@
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Caderneta]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
-[Smart Sallon]: https://github.com/jovtrc.png?size=400
+[Smart Sallon]: https://github.com/jovtrc.png?size=350
 [Employee Manager]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 
 ----
