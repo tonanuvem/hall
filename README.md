@@ -70,8 +70,6 @@
 
 ### SmartSallon
 <details>
-  <br> Videos e/ou telas: <br>
-    <br>- 
  <br><br> Repos: <br>
     <br>- https://github.com/jovtrc/smart-saloon
 </details>
