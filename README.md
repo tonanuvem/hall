@@ -20,7 +20,7 @@
 
 | Smart Sallon ([ver detalhes](#Smart Sallon)) | Employee Manager ([ver detalhes](#Employee Manager)) |    |
 |:--------------------------------------------:|:----------------------------------------------------:|:--:|
-| ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        |    |
+| ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        |  ![][Caderneta]   |
 
 
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
