@@ -87,6 +87,15 @@
 
 ## 2021 : 75 AOJ
 
+### Easy Baby
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://www.youtube.com/watch?app=desktop&v=EaVER_EhZ5g
+    <br>- https://www.loom.com/share/724013aecf1d4d359ac9d175224c5854
+ <br><br> Repos: <br>
+    <br>- https://github.com/anelynOvalle/easy-baby
+</details>
+
 ### HortiLIFE
 <details>
   <br> Videos e/ou telas: <br>
