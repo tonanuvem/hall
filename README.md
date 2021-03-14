@@ -10,7 +10,7 @@
 
 <br>
 
-## Exemplos de trabalhos:
+----
 
 ## Videos e screens
 
@@ -28,7 +28,7 @@
 [CadernetaIMG]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 
 
-
+----
   
 ## Repositorios e detalhes
 
