@@ -16,27 +16,17 @@
 
 | MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     | Agendaê! ([ver detalhes](#Caderneta))   |
 |:--------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+| ![alt text][MetWorkingIMG]                   | ![alt text][AgendaeIMG]                 | ![][CadernetaIMG]                       |
+
+| MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     | Agendaê! ([ver detalhes](#Caderneta))   |
+|:--------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
 | ![alt text][MetWorkingIMG]                   | ![alt text][AgendaeIMG]                 | ![alt text][CadernetaIMG]               |
-
-| MetWorking ([ver detalhes](#MetWorking))     |
-|----------------------------------------------|
-| [![](https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking") |
-
-| Agendaê! ([ver detalhes](#Agendae))     |
-|-----------------------------------------|
-| [![](https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif)](https://www.loom.com/share/123aaeae32f943c7870dadfc280d5382 "Metworking") |
-
-[![MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking")
 
 
 [MetWorkingIMG]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
-[MetWorking]: https://www.youtube.com/watch?v=9qyUK8s4q6s
-
 [AgendaeIMG]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
-[Agendae]: https://www.loom.com/share/123aaeae32f943c7870dadfc280d5382
-
 [CadernetaIMG]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
-[Caderneta]: https://www.loom.com/share/8cba27f5b4e44cc78de28be4410ab095
+
 
 
   
@@ -83,6 +73,16 @@
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 [![MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking")  
+
+| MetWorking ([ver detalhes](#MetWorking))     |
+|----------------------------------------------|
+| [![](https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking") |
+
+| Agendaê! ([ver detalhes](#Agendae))     |
+|-----------------------------------------|
+| [![](https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif)](https://www.loom.com/share/123aaeae32f943c7870dadfc280d5382 "Metworking") |
+
+
 
 ----
 
