@@ -12,7 +12,7 @@
 
 ## Exemplos de trabalhos:
 
-### Videos e screens
+## Videos e screens
 
 | MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     | Agendaê! ([ver detalhes](#Caderneta))   |
 |:--------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
@@ -30,9 +30,9 @@
 
 
   
-### Repositorios e detalhes
+## Repositorios e detalhes
 
-#### MetWorking
+### MetWorking
 <details>
   <br> Videos e/ou telas:
     <br>- https://www.youtube.com/watch?v=9qyUK8s4q6s
@@ -44,16 +44,12 @@
     <br>- https://github.com/jhun/MetworkingFrontend
 </details>
 
-#### Exemplos
+<!---
+### Exemplos
 <details>
-  <summary markdown="span">Detalhes sobre o projeto </summary>
-
-  This is the detailed text.
-
-  We can still use markdown, but we need to take the additional step of using the `parse_block_html` option as described in the [Mix HTML + Markdown Markup section](#mix-html--markdown-markup).
-
+  <summary markdown="span">Detalhes sobre o projeto </summary
+  This is the detailed tex
   You can learn more about expected usage of this approach in the [GitLab UI docs](https://gitlab-org.gitlab.io/gitlab-ui/?path=/story/base-collapse--default) though the solution we use above is specific to usage in markdown.
-
 | Default aligned | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
 | First body part | Second cell  | Third cell      | fourth cell    |
@@ -64,8 +60,8 @@
 | 2nd line        |              |                 |                |
 |-----------------+--------------+-----------------+----------------|
 | Third body      |              |                 | Foo            |
-
 </details>
+-->
 
 <!---
 ### Fim
