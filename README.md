@@ -20,7 +20,7 @@
 |:--------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
 | ![alt text][MetWorking]                   | ![alt text][Agendae]                       | ![][Caderneta]                          |
 
-| Smart Sallon ([ver detalhes](#Smart Sallon)) | Employee Manager ([ver detalhes](#Employee Manager)) |    |
+| Smart Sallon ([ver detalhes](#SmartSallon)) | Employee Manager ([ver detalhes](#EmployeeManager)) |    |
 |:--------------------------------------------:|:----------------------------------------------------:|:--:|
 | ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        |  ![][blank]  |
 
@@ -73,7 +73,7 @@
     <br>- https://github.com/jhun/MetworkingFrontend
 </details>
 
-### Smart Sallon
+### SmartSallon
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://www.youtube.com/watch?v=9qyUK8s4q6s
@@ -85,7 +85,7 @@
     <br>- https://github.com/jhun/MetworkingFrontend
 </details>
 
-### Employee Manager
+### EmployeeManager
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://www.youtube.com/watch?v=9qyUK8s4q6s
