@@ -24,7 +24,6 @@
 |:--------------------------------------------:|:----------------------------------------------------:|
 | ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        |
 
-
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Caderneta]: https://github.com/sironAzevedo/caderneta-front/blob/daf5721a66caab7f6ddc862802ffaa6f0065327b/src/assets/img/logo.png?raw=true
@@ -33,10 +32,11 @@
 [Employee Manager]: https://github.com/afernandes130/76AOJ-ENGSWDEV-T2/blob/main/employee-ui/src/assets/images/brand.png?raw=true
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
-
 ----
   
-## Repositorios e detalhes
+# Repositorios e detalhes
+
+## 2021
 
 ### MetWorking
 <details>
@@ -81,6 +81,64 @@
     <br>- https://drive.google.com/file/d/1XjE3WMpRFtArwPerR0YHe7qSD0hvfZgL/view
  <br><br> Repos: <br>
     <br>- https://github.com/afernandes130/76AOJ-ENGSWDEV-T2
+</details>
+
+----
+
+### HortiLIFE
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://drive.google.com/file/d/1quOdGuaitX0i_MNJW-HpCWdxwS1e0abA/view?usp=sharing
+ <br><br> Repos: <br>
+    <br>- https://github.com/valrsilva/fiap_hortilife
+</details>
+
+### I-Relp
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://www.loom.com/share/e5ed612e27c84047bee4c052d2a4e4c2
+ <br><br> Repos: <br>
+    <br>- https://github.com/Beatrizbrf11/DockerCompose.git
+    <br>- https://github.com/Beatrizbrf11/IRelpApi.git
+    <br>- https://github.com/userrp03/Front.git
+    <br>- https://github.com/Beatrizbrf11/IRelpFront
+</details>
+
+### Travels Root
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://drive.google.com/file/d/1wFsISW1R0qzbq5gO_ZaEKXf9QPLucRS_/view?usp=drivesd
+ <br><br> Repos: <br>
+    <br>- https://github.com/mathgunz/guia-turistico-fiap-grupo-20
+</details>
+
+### Mon Invest
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://youtu.be/xajoR5Itda0
+    <br>- https://youtu.be/1B3Nv6fO-jE
+    <br>- https://youtu.be/561-HwL9h0g
+    <br>- https://youtu.be/G9N2NUPhqoQ
+ <br><br> Repos: <br>
+    <br>- https://github.com/Monvest/Notification
+    <br>- https://github.com/Monvest/Wallet
+    <br>- https://github.com/Monvest/EngSoftwareMonvest
+</details>
+
+### Frete Dez
+<details>
+ <br><br> Repos: <br>
+    <br>- https://github.com/andersonvnieves/PrestadorServiceBackEnd
+    <br>- https://github.com/andersonvnieves/PrestadorServiceFrontEnd
+    <br>- https://github.com/gustavogentil/Contratante/tree/master
+    <br>- https://github.com/Priscila-Caxa/75aoj-CadastrarVeiculo
+    <br>- https://github.com/rafacamppos/servico-cadastrar-demanda.git
+</details>
+
+### Ugly but yummy
+<details>
+ <br><br> Repos: <br>
+    <br>- https://github.com/coelhoadler/ugly-but-yummy
 </details>
 
 <!---
