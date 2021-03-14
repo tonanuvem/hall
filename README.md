@@ -10,6 +10,8 @@
 
 <br>
 
+[blank]: https://www.awanj.org/wp-content/uploads/blank-White-Square-image-for-Web-300x256.png
+
 ----
 
 ## Videos e screens
@@ -28,7 +30,8 @@
 [Caderneta]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Smart Sallon]: https://github.com/jovtrc.png?size=350
 [Employee Manager]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
-[blank]: https://github.com/tonanuvem.png?size=350
+
+
 
 ----
   
