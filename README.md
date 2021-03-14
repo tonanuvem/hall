@@ -29,7 +29,7 @@
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Caderneta]: https://github.com/sironAzevedo/caderneta-front/blob/daf5721a66caab7f6ddc862802ffaa6f0065327b/src/assets/img/logo.png?raw=true
 [Smart Sallon]: https://github.com/jovtrc/smart-saloon/blob/main/frontend/src/assets/img/brand/argon-react.png?raw=true
-[Employee Manager]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
+[Employee Manager]: https://github.com/afernandes130/76AOJ-ENGSWDEV-T2/blob/main/employee-ui/src/assets/images/brand.png?raw=true
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
 
