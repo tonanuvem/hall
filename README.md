@@ -35,7 +35,7 @@
 [AgendaeIMG]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Agendae]: https://www.loom.com/share/123aaeae32f943c7870dadfc280d5382
 
-[CadernetaIMG]: https://cdn.loom.com/sessions/thumbnails/8cba27f5b4e44cc78de28be4410ab095-with-play.gif
+[CadernetaIMG]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Caderneta]: https://www.loom.com/share/8cba27f5b4e44cc78de28be4410ab095
 
 
