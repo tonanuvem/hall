@@ -36,7 +36,19 @@
   
 # Repositorios e detalhes
 
-## 2021 : 76 AOJ
+## 2021 : 36 SCJ (6 trabalhos)
+
+Aguardando entregas.
+
+----
+
+## 2021 : 37 SCJ (4 trabalhos)
+
+Aguardando entregas.
+
+----
+
+## 2021 : 76 AOJ (5 trabalhos)
 
 ### MetWorking
 <details>
@@ -85,7 +97,13 @@
 
 ----
 
-## 2021 : 75 AOJ
+## 2021 : 37 SCJ (4 trabalhos)
+
+Aguardando publicação.
+
+----
+
+## 2021 : 75 AOJ (12 trabalhos)
 
 ### Easy Baby
 <details>
