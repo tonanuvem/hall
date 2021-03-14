@@ -14,19 +14,20 @@
 
 ## Videos e screens
 
-| MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     | Agendaê! ([ver detalhes](#Caderneta))   |
+| MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     | Caderneta! ([ver detalhes](#Caderneta)) |
 |:--------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-| ![alt text][MetWorkingIMG]                   | ![alt text][AgendaeIMG]                 | ![][CadernetaIMG]                       |
+| ![alt text][MetWorking]                   | ![alt text][Agendae]                       | ![][Caderneta]                          |
 
-| MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     | Agendaê! ([ver detalhes](#Caderneta))   |
-|:--------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-| ![alt text][MetWorkingIMG]                   | ![alt text][AgendaeIMG]                 | ![alt text][CadernetaIMG]               |
+| Smart Sallon ([ver detalhes](#Smart Sallon)) | Employee Manager ([ver detalhes](#Employee Manager)) |    |
+|:--------------------------------------------:|:----------------------------------------------------:|:--:|
+| ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        |    |
 
 
-[MetWorkingIMG]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
-[AgendaeIMG]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
-[CadernetaIMG]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
-
+[MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
+[Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
+[Caderneta]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
+[Smart Sallon]: https://github.com/jovtrc.png
+[Employee Manager]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 
 ----
   
