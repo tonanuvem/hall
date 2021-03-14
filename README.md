@@ -14,14 +14,15 @@
 
 ### Videos e screens
 
-| MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))  | Center aligned  | Right aligned  |
-|----------------------------------------------|:----------------------------------------|:---------------:|---------------:|
-| ![alt text][MetWorkingIMG]                   | ![alt text][AgendaeIMG]      | Third cell      | fourth cell    |
+| MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     |
+|----------------------------------------------|:----------------------------------------|
+| ![alt text][MetWorkingIMG]                   | ![alt text][AgendaeIMG]                 | 
 
 | MetWorking ([ver detalhes](#MetWorking))     | Left aligned                        | Center aligned  | Right aligned  |
 |----------------------------------------------|:------------------------------------|:---------------:|---------------:|
-| [![MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking")                     | Reference-style: ![alt text][logo]  | Third cell      | fourth cell    |
+| [![MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking") |  | Third cell      | fourth cell    |
 
+[![MetworkingIMG2](https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg =100x20)](https://www.youtube.com/watch?v=9qyUK8s4q6s "Metworking")
 
 
 [MetWorkingIMG]: https://img.youtube.com/vi/9qyUK8s4q6s/mqdefault.jpg
