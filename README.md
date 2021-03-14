@@ -14,9 +14,9 @@
 
 ### Videos e screens
 
-| MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     |
-|----------------------------------------------|:----------------------------------------|
-| ![alt text][MetWorkingIMG]                   | ![alt text][AgendaeIMG]                 | 
+| MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     | Agendaê! ([ver detalhes](#Caderneta))   |
+|:--------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+| ![alt text][MetWorkingIMG]                   | ![alt text][AgendaeIMG]                 | ![alt text][CadernetaIMG]               |
 
 | MetWorking ([ver detalhes](#MetWorking))     |
 |----------------------------------------------|
@@ -35,10 +35,10 @@
 [AgendaeIMG]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Agendae]: https://www.loom.com/share/123aaeae32f943c7870dadfc280d5382
 
-<a href="">
-    <p>AOJ  | Apresentação do 2º trabalho da disciplina de Engineering Software Development | Agendaê! - Watch Video</p>
-    <img style="max-width:300px;" src="">
-  </a>
+[CadernetaIMG]: https://cdn.loom.com/sessions/thumbnails/8cba27f5b4e44cc78de28be4410ab095-with-play.gif
+[Caderneta]: https://www.loom.com/share/8cba27f5b4e44cc78de28be4410ab095
+
+
   
 ### Repositorios e detalhes
 
