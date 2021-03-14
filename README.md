@@ -21,6 +21,7 @@
 | ![alt text][MetWorking]                   | ![alt text][Agendae]                       | ![][Caderneta]                          |
 
 | Agendaê! ([ver detalhes](#Agendae))     | Caderneta! ([ver detalhes](#Caderneta)) | Smart Sallon ([ver detalhes](#SmartSallon)) | Employee Manager ([ver detalhes](#EmployeeManager)) |
+|:---------------------------------------:|:---------------------------------------:|:-------------------------------------------:|----|
 
 | Smart Sallon ([ver detalhes](#SmartSallon)) | Employee Manager ([ver detalhes](#EmployeeManager)) |    |
 |:--------------------------------------------:|:----------------------------------------------------:|:--:|
