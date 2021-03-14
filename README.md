@@ -52,49 +52,36 @@
 ### Agendae
 <details>
   <br> Videos e/ou telas: <br>
-    <br>- https://www.youtube.com/watch?v=9qyUK8s4q6s
-    <br>- https://drive.google.com/file/d/1NwcoLJFQZO-J8AliEkvDOXfRna_tWdtO/view?usp=sharing
+    <br>- https://www.loom.com/share/123aaeae32f943c7870dadfc280d5382
  <br><br> Repos: <br>
-    <br>- https://github.com/CaioRagazzi/MetworkingUserAPI
-    <br>- https://github.com/erickfaraujo/MetWorkingMatchAPI
-    <br>- https://github.com/martinsleandros/MetworkingGeoAPI
-    <br>- https://github.com/jhun/MetworkingFrontend
+    <br>- https://github.com/wnqueiroz/fiap-startup-one-prototype
+    <br>- https://github.com/wnqueiroz/fiap-startup-one-ms-user
+    <br>- https://github.com/wnqueiroz/fiap-startup-one-ms-company
+    <br>- https://github.com/wnqueiroz/fiap-startup-one-ms-appointment
 </details>
 
 ### Caderneta
 <details>
   <br> Videos e/ou telas: <br>
-    <br>- https://www.youtube.com/watch?v=9qyUK8s4q6s
-    <br>- https://drive.google.com/file/d/1NwcoLJFQZO-J8AliEkvDOXfRna_tWdtO/view?usp=sharing
+    <br>- https://www.loom.com/share/8cba27f5b4e44cc78de28be4410ab095
  <br><br> Repos: <br>
-    <br>- https://github.com/CaioRagazzi/MetworkingUserAPI
-    <br>- https://github.com/erickfaraujo/MetWorkingMatchAPI
-    <br>- https://github.com/martinsleandros/MetworkingGeoAPI
-    <br>- https://github.com/jhun/MetworkingFrontend
+    <br>- https://github.com/sironAzevedo/caderneta
 </details>
 
 ### SmartSallon
 <details>
   <br> Videos e/ou telas: <br>
-    <br>- https://www.youtube.com/watch?v=9qyUK8s4q6s
-    <br>- https://drive.google.com/file/d/1NwcoLJFQZO-J8AliEkvDOXfRna_tWdtO/view?usp=sharing
+    <br>- 
  <br><br> Repos: <br>
-    <br>- https://github.com/CaioRagazzi/MetworkingUserAPI
-    <br>- https://github.com/erickfaraujo/MetWorkingMatchAPI
-    <br>- https://github.com/martinsleandros/MetworkingGeoAPI
-    <br>- https://github.com/jhun/MetworkingFrontend
+    <br>- https://github.com/jovtrc/smart-saloon
 </details>
 
 ### EmployeeManager
 <details>
   <br> Videos e/ou telas: <br>
-    <br>- https://www.youtube.com/watch?v=9qyUK8s4q6s
-    <br>- https://drive.google.com/file/d/1NwcoLJFQZO-J8AliEkvDOXfRna_tWdtO/view?usp=sharing
+    <br>- https://drive.google.com/file/d/1XjE3WMpRFtArwPerR0YHe7qSD0hvfZgL/view
  <br><br> Repos: <br>
-    <br>- https://github.com/CaioRagazzi/MetworkingUserAPI
-    <br>- https://github.com/erickfaraujo/MetWorkingMatchAPI
-    <br>- https://github.com/martinsleandros/MetworkingGeoAPI
-    <br>- https://github.com/jhun/MetworkingFrontend
+    <br>- https://github.com/afernandes130/76AOJ-ENGSWDEV-T2
 </details>
 
 <!---
