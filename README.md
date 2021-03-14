@@ -34,7 +34,7 @@
 
 ### MetWorking
 <details>
-  <br> Videos e/ou telas: <br>
+  > Videos e/ou telas: <br>
     <br>- https://www.youtube.com/watch?v=9qyUK8s4q6s
     <br>- https://drive.google.com/file/d/1NwcoLJFQZO-J8AliEkvDOXfRna_tWdtO/view?usp=sharing
  <br> Repos: <br>
