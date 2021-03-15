@@ -24,9 +24,9 @@
 |:--------------------------------------------:|:----------------------------------------------------:|:--------------------------------------:|
 | ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        | ![][Horti]                             |
 
-| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | HortiLIFE ([ver detalhes](#HortiLIFE)) | I-Relp ([ver detalhes](#I-Relp)) |
-|:-----------------------------------------------------------------------:|:--------------------------------------:|:-----------------:|
-| ![alt text][Drone Sensorial Controller]                                 | ![][Horti]                             | ![][iRelp]        |
+| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | I-Relp ([ver detalhes](#I-Relp)) |
+|:-----------------------------------------------------------------------:|:-----------------:|
+| ![alt text][Drone Sensorial Controller]                                 |![][iRelp]         |
 
 | Easy Baby ([ver detalhes](#Easy Baby)) | Caderneta! ([ver detalhes](#Caderneta))  | Agendaê! ([ver detalhes](#Agendae))     | 
 |:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
