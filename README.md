@@ -132,6 +132,7 @@ Front end mobile no final do vídeo.
 </details>
 
 ### I-Relp
+Execução em Cluster utilizando o ambiente do Play with Docker.
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://www.loom.com/share/e5ed612e27c84047bee4c052d2a4e4c2
