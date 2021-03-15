@@ -32,11 +32,12 @@
 [Employee Manager]: https://github.com/afernandes130/76AOJ-ENGSWDEV-T2/blob/main/employee-ui/src/assets/images/brand.png?raw=true
 
 
-| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | Employee Manager ([ver detalhes](#EmployeeManager))  |
+| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | Easy Baby ([ver detalhes](#Easy))  |
 |:-----------------------------------------------------------------------:|:----------------------------------------------------:|
 | ![alt text][Drone Sensorial Controller]                                 | ![alt text][blank]                                   |
 
 [Drone Sensorial Controller]: https://cdn.loom.com/sessions/thumbnails/64bb64d6feea469b8621d4a602ca2e5a-with-play.gif
+[Easy Baby]: https://img.youtube.com/vi/EaVER_EhZ5g/0.jpg
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
 ----
