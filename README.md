@@ -18,7 +18,7 @@
 
 | MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     | 
 |:--------------------------------------------:|:---------------------------------------:|
-| ![alt text][MetWorking]                      | ![alt text][Agendae]                    |
+| ![alt text][MetWorking]                      | ![alt text][Employee Manager]                    |
 
 | Smart Sallon ([ver detalhes](#SmartSallon))  | Employee Manager ([ver detalhes](#EmployeeManager))  | HortiLIFE ([ver detalhes](#HortiLIFE)) |
 |:--------------------------------------------:|:----------------------------------------------------:|:--------------------------------------:|
