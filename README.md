@@ -143,27 +143,6 @@ Execução em Cluster utilizando o ambiente do Play with Docker.
     <br>- https://github.com/Beatrizbrf11/IRelpFront
 </details>
 
-### Travels Root
-<details>
-  <br> Videos e/ou telas: <br>
-    <br>- https://drive.google.com/file/d/1wFsISW1R0qzbq5gO_ZaEKXf9QPLucRS_/view?usp=drivesd
- <br><br> Repos: <br>
-    <br>- https://github.com/mathgunz/guia-turistico-fiap-grupo-20
-</details>
-
-### Mon Invest
-<details>
-  <br> Videos e/ou telas: <br>
-    <br>- https://youtu.be/xajoR5Itda0
-    <br>- https://youtu.be/1B3Nv6fO-jE
-    <br>- https://youtu.be/561-HwL9h0g
-    <br>- https://youtu.be/G9N2NUPhqoQ
- <br><br> Repos: <br>
-    <br>- https://github.com/Monvest/Notification
-    <br>- https://github.com/Monvest/Wallet
-    <br>- https://github.com/Monvest/EngSoftwareMonvest
-</details>
-
 ### Frete Dez
 <details>
  <br><br> Repos: <br>
