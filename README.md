@@ -23,7 +23,6 @@
 | Smart Sallon ([ver detalhes](#SmartSallon))  | Employee Manager ([ver detalhes](#EmployeeManager))  |
 |:--------------------------------------------:|:----------------------------------------------------:|
 | ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        |
-
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Caderneta]: https://github.com/sironAzevedo/caderneta-front/blob/daf5721a66caab7f6ddc862802ffaa6f0065327b/src/assets/img/logo.png?raw=true
@@ -31,6 +30,12 @@
 [Smart Sallon Logo]: https://github.com/jovtrc/smart-saloon/blob/main/frontend/src/assets/img/brand/argon-react.png?raw=true
 [Employee Manager]: https://github.com/afernandes130/76AOJ-ENGSWDEV-T2/blob/main/employee-ui/src/assets/images/brand.png?raw=true
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
+
+| Drone Sensorial Controller ([ver detalhes](#Drone Sensorial Controller))  | Employee Manager ([ver detalhes](#EmployeeManager))  |
+|:--------------------------------------------:|:----------------------------------------------------:|
+| ![alt text][Drone Sensorial Controller]                    | ![alt text][Employee Manager]                        |
+
+[Drone Sensorial Controller]: https://cdn.loom.com/sessions/thumbnails/64bb64d6feea469b8621d4a602ca2e5a-with-play.gif
 
 ----
   
