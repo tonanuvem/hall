@@ -51,6 +51,7 @@ Aguardando entregas.
 ## 2021 : 76 AOJ (5 trabalhos)
 
 ### MetWorking
+Front-end ficou muito bom. Specflow para testes de integração com diversos cenários definidos nos .features
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://www.youtube.com/watch?v=9qyUK8s4q6s
@@ -63,6 +64,7 @@ Aguardando entregas.
 </details>
 
 ### Agendae
+Pipeline baseado em Github actions e bem legal a ideia do CQRS.
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://www.loom.com/share/123aaeae32f943c7870dadfc280d5382
@@ -74,6 +76,7 @@ Aguardando entregas.
 </details>
 
 ### Caderneta
+Uso do zipkin, configserver, eureka, com uso de Pipeline baseado em Github actions com deploy no Heroku.
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://www.loom.com/share/8cba27f5b4e44cc78de28be4410ab095
@@ -82,12 +85,14 @@ Aguardando entregas.
 </details>
 
 ### SmartSallon
+Uso do Laravel baseado em PHP.
 <details>
  <br><br> Repos: <br>
     <br>- https://github.com/jovtrc/smart-saloon
 </details>
 
 ### EmployeeManager
+Legal o do ELK para gestão centralizada de logs.
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://drive.google.com/file/d/1XjE3WMpRFtArwPerR0YHe7qSD0hvfZgL/view
