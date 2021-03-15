@@ -143,21 +143,18 @@ Execução em Cluster utilizando o ambiente do Play with Docker.
     <br>- https://github.com/Beatrizbrf11/IRelpFront
 </details>
 
-### Frete Dez
-<details>
- <br><br> Repos: <br>
-    <br>- https://github.com/andersonvnieves/PrestadorServiceBackEnd
-    <br>- https://github.com/andersonvnieves/PrestadorServiceFrontEnd
-    <br>- https://github.com/gustavogentil/Contratante/tree/master
-    <br>- https://github.com/Priscila-Caxa/75aoj-CadastrarVeiculo
-    <br>- https://github.com/rafacamppos/servico-cadastrar-demanda.git
-</details>
+----
 
-### Ugly but yummy
-<details>
- <br><br> Repos: <br>
-    <br>- https://github.com/coelhoadler/ugly-but-yummy
-</details>
+### Guias para organizar as descrições de seus projetos (Markdown):
+
+- https://about.gitlab.com/handbook/markdown-guide/
+
+- https://guides.github.com/features/mastering-markdown/
+
+- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+
+
 
 <!---
 ### Exemplos
@@ -177,7 +174,6 @@ Execução em Cluster utilizando o ambiente do Play with Docker.
 | Third body      |              |                 | Foo            |
 </details>
 -->
-
 <!---
 ### Fim
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
@@ -190,12 +186,3 @@ Execução em Cluster utilizando o ambiente do Play with Docker.
 | [![](https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif)](https://www.loom.com/share/123aaeae32f943c7870dadfc280d5382 "Metworking") |
 -->
 
-----
-
-### Guias para organizar as descrições de seus projetos (Markdown):
-
-- https://about.gitlab.com/handbook/markdown-guide/
-
-- https://guides.github.com/features/mastering-markdown/
-
-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
