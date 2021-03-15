@@ -20,11 +20,11 @@
 |:--------------------------------------------:|:---------------------------------------:|
 | ![alt text][MetWorking]                      | ![alt text][Agendae]                    |
 
-| Smart Sallon ([ver detalhes](#SmartSallon))  | Employee Manager ([ver detalhes](#EmployeeManager))  |
-|:--------------------------------------------:|:----------------------------------------------------:|
-| ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        |
+| Smart Sallon ([ver detalhes](#SmartSallon))  | Employee Manager ([ver detalhes](#EmployeeManager))  | HortiLIFE ([ver detalhes](#HortiLIFE)) |
+|:--------------------------------------------:|:----------------------------------------------------:|:--------------------------------------:|
+| ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        | ![][Horti]                             |
 
-| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | HortiLIFE ([ver detalhes](#HortiLIFE))  | I-Relp ([ver detalhes](#I-Relp)) |
+| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | HortiLIFE ([ver detalhes](#HortiLIFE)) | I-Relp ([ver detalhes](#I-Relp)) |
 |:-----------------------------------------------------------------------:|:--------------------------------------:|:-----------------:|
 | ![alt text][Drone Sensorial Controller]                                 | ![][Horti]                             | ![][iRelp]        |
 
