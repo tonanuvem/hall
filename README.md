@@ -24,21 +24,23 @@
 |:--------------------------------------------:|:----------------------------------------------------:|
 | ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        |
 
-[MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
-[Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
-[Caderneta]: https://github.com/sironAzevedo/caderneta-front/blob/daf5721a66caab7f6ddc862802ffaa6f0065327b/src/assets/img/logo.png?raw=true
-[Smart Sallon]: assets/smartsaloon.png
-[Smart Sallon Logo]: https://github.com/jovtrc/smart-saloon/blob/main/frontend/src/assets/img/brand/argon-react.png?raw=true
-[Employee Manager]: https://github.com/afernandes130/76AOJ-ENGSWDEV-T2/blob/main/employee-ui/src/assets/images/brand.png?raw=true
-
-
 | Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | Easy Baby ([ver detalhes](#EasyBaby))  | I-Relp ([ver detalhes](#I-Relp)) |
 |:-----------------------------------------------------------------------:|:--------------------------------------:|:-----------------:|
 | ![alt text][Drone Sensorial Controller]                                 | ![alt text][Easy Baby]                 | ![][iRelp]        |
 
+| Caderneta! ([ver detalhes](#Caderneta)) | HortiLIFE ([ver detalhes](#HortiLIFE)) |
+|:---------------------------------------:|:--------------------------------------:|
+| ![][Caderneta]                          | ![][Horti]                             |
+
+[MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
+[Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
+[Caderneta]: https://github.com/sironAzevedo/caderneta-front/blob/daf5721a66caab7f6ddc862802ffaa6f0065327b/src/assets/img/logo.png?raw=true
+[Smart Sallon]: assets/smartsaloon.png
+[Employee Manager]: https://github.com/afernandes130/76AOJ-ENGSWDEV-T2/blob/main/employee-ui/src/assets/images/brand.png?raw=true
 [Drone Sensorial Controller]: https://cdn.loom.com/sessions/thumbnails/64bb64d6feea469b8621d4a602ca2e5a-with-play.gif
 [Easy Baby]: https://github.com/anelynOvalle/easy-baby/blob/master/frontend/public/easy-baby.png?raw=true
 [iRelp]: https://cdn.loom.com/sessions/thumbnails/e5ed612e27c84047bee4c052d2a4e4c2-with-play.gif
+[Horti]: https://github.com/valrsilva/fiap_hortilife/blob/master/_frontend/app/site/image/bg.png?raw=true
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
 ----
