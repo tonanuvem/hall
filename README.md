@@ -43,13 +43,7 @@
   
 # Repositorios e detalhes
 
-## 2021 : 36 SCJ (6 trabalhos)
-
-Aguardando entregas.
-
-----
-
-## 2021 : 37 SCJ (4 trabalhos)
+## 2021 : FULL STACK DEVELOPMENT
 
 ### DroneSensorialController
 Front end em react com comunicação assíncrona usando RabbitMQ e backend usando Java/Spring, incluindo Actuators para monitoração.
@@ -65,7 +59,7 @@ Front end em react com comunicação assíncrona usando RabbitMQ e backend usand
 
 ----
 
-## 2021 : 76 AOJ (5 trabalhos)
+## 2021 : ENGENHARIA DE SOFTWARE
 
 ### MetWorking
 Front-end ficou muito bom. Specflow para testes de integração com diversos cenários definidos nos .features
@@ -116,10 +110,6 @@ Legal o do ELK para gestão centralizada de logs.
  <br><br> Repos: <br>
     <br>- https://github.com/afernandes130/76AOJ-ENGSWDEV-T2
 </details>
-
-----
-
-## 2021 : 75 AOJ (12 trabalhos)
 
 ### Easy Baby
 <details>
