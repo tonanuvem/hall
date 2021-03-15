@@ -124,7 +124,7 @@ UI bem organizada utilizando Next JS.
 </details>
 
 ### HortiLIFE
-Front end mobile no final do vídeo.
+Exemplo usando proxy reverso baseado no Nginx e também legal o Front-end mobile no final do vídeo.
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://drive.google.com/file/d/1quOdGuaitX0i_MNJW-HpCWdxwS1e0abA/view?usp=sharing
