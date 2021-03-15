@@ -20,9 +20,9 @@
 |:--------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
 | ![alt text][MetWorking]                   | ![alt text][Agendae]                       | ![][Caderneta]                          |
 
-| Smart Sallon ([ver detalhes](#SmartSallon))  | Employee Manager ([ver detalhes](#EmployeeManager))  | I-Relp ([ver detalhes](#I-Relp))
-|:--------------------------------------------:|:----------------------------------------------------:|:-----------------:|
-| ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        | ![][iRelp]        |
+| Smart Sallon ([ver detalhes](#SmartSallon))  | Employee Manager ([ver detalhes](#EmployeeManager))  |
+|:--------------------------------------------:|:----------------------------------------------------:|
+| ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        |
 
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
@@ -32,9 +32,9 @@
 [Employee Manager]: https://github.com/afernandes130/76AOJ-ENGSWDEV-T2/blob/main/employee-ui/src/assets/images/brand.png?raw=true
 
 
-| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | Easy Baby ([ver detalhes](#EasyBaby))  |
-|:-----------------------------------------------------------------------:|:--------------------------------------:|
-| ![alt text][Drone Sensorial Controller]                                 | ![alt text][Easy Baby]                 |
+| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | Easy Baby ([ver detalhes](#EasyBaby))  | I-Relp ([ver detalhes](#I-Relp)) |
+|:-----------------------------------------------------------------------:|:--------------------------------------:|:-----------------:|
+| ![alt text][Drone Sensorial Controller]                                 | ![alt text][Easy Baby]                 | ![][iRelp]        |
 
 [Drone Sensorial Controller]: https://cdn.loom.com/sessions/thumbnails/64bb64d6feea469b8621d4a602ca2e5a-with-play.gif
 [Easy Baby]: https://github.com/anelynOvalle/easy-baby/blob/master/frontend/public/easy-baby.png?raw=true
