@@ -63,7 +63,7 @@ Front-end ficou muito bom. Specflow para testes de integração com diversos cen
     <br>- https://github.com/jhun/MetworkingFrontend
 </details>
 
-### Agendae
+### Agendaê
 Pipeline baseado em Github actions e bem legal a ideia do CQRS.
 <details>
   <br> Videos e/ou telas: <br>
