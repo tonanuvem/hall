@@ -28,7 +28,7 @@
 |:-----------------------------------------------------------------------:|:-----------------:|
 | ![alt text][Drone Sensorial Controller]                                 |![][iRelp]         |
 
-| Easy Baby ([ver detalhes](#Easy Baby)) | Caderneta! ([ver detalhes](#Caderneta))  | Agendaê! ([ver detalhes](#Agendae))     | 
+| Easy Baby ([ver detalhes](#EasyBaby)) | Caderneta! ([ver detalhes](#Caderneta))  | Agendaê! ([ver detalhes](#Agendae))     | 
 |:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
 | ![][EasyBaby]                           | ![][Caderneta]                          | ![alt text][Agendae]                    |
 
