@@ -18,7 +18,7 @@
 
 | MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     | 
 |:--------------------------------------------:|:---------------------------------------:|
-| ![alt text][MetWorking]                   | ![alt text][Agendae]                       |
+| ![alt text][MetWorking]                      | ![alt text][Agendae]                    |
 
 | Smart Sallon ([ver detalhes](#SmartSallon))  | Employee Manager ([ver detalhes](#EmployeeManager))  |
 |:--------------------------------------------:|:----------------------------------------------------:|
@@ -28,9 +28,9 @@
 |:-----------------------------------------------------------------------:|:--------------------------------------:|:-----------------:|
 | ![alt text][Drone Sensorial Controller]                                 | ![][Horti]                             | ![][iRelp]        |
 
-| Easy Baby ([ver detalhes](#Easy Baby)) | Caderneta! ([ver detalhes](#Caderneta)) | 
-|:---------------------------------------:|:---------------------------------------:|
-| ![][EasyBaby]                           | ![][Caderneta]                          |
+| Easy Baby ([ver detalhes](#Easy Baby)) | Caderneta! ([ver detalhes](#Caderneta))  | Agendaê! ([ver detalhes](#Agendae))     | 
+|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+| ![][EasyBaby]                           | ![][Caderneta]                          | ![alt text][Agendae]                    |
 
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
