@@ -30,13 +30,14 @@
 [Smart Sallon]: assets/smartsaloon.png
 [Smart Sallon Logo]: https://github.com/jovtrc/smart-saloon/blob/main/frontend/src/assets/img/brand/argon-react.png?raw=true
 [Employee Manager]: https://github.com/afernandes130/76AOJ-ENGSWDEV-T2/blob/main/employee-ui/src/assets/images/brand.png?raw=true
-[blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
-| Drone Sensorial Controller ([ver detalhes](#Drone Sensorial Controller))  | Employee Manager ([ver detalhes](#EmployeeManager))  |
-|:--------------------------------------------:|:----------------------------------------------------:|
-| ![alt text][Drone Sensorial Controller]                    | ![alt text][Employee Manager]                        |
+
+| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | Employee Manager ([ver detalhes](#EmployeeManager))  |
+|:-----------------------------------------------------------------------:|:----------------------------------------------------:|
+| ![alt text][Drone Sensorial Controller]                                 | ![alt text][blank]                                   |
 
 [Drone Sensorial Controller]: https://cdn.loom.com/sessions/thumbnails/64bb64d6feea469b8621d4a602ca2e5a-with-play.gif
+[blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
 ----
   
@@ -50,7 +51,7 @@ Aguardando entregas.
 
 ## 2021 : 37 SCJ (4 trabalhos)
 
-### Drone Sensorial Controller
+### DroneSensorialController
 Front end em react com comunicação assíncrona usando RabbitMQ e backend usando Java/Spring, incluindo Actuators para monitoração.
 <details>
   <br> Videos e/ou telas: <br>
