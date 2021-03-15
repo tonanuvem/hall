@@ -26,7 +26,7 @@
 
 | Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | Easy Baby ([ver detalhes](#EasyBaby))  | I-Relp ([ver detalhes](#I-Relp)) |
 |:-----------------------------------------------------------------------:|:--------------------------------------:|:-----------------:|
-| ![alt text][Drone Sensorial Controller]                                 | ![alt text][Easy Baby]                 | ![][iRelp]        |
+| ![alt text][Drone Sensorial Controller]                                 | ![][Horti]                             | ![][iRelp]        |
 
 | ![alt text][Easy Baby]                  | Caderneta! ([ver detalhes](#Caderneta)) | HortiLIFE ([ver detalhes](#HortiLIFE)) |
 |:---------------------------------------:|:---------------------------------------:|:--------------------------------------:|
