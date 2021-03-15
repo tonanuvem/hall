@@ -28,7 +28,7 @@
 |:-----------------------------------------------------------------------:|:--------------------------------------:|:-----------------:|
 | ![alt text][Drone Sensorial Controller]                                 | ![][Horti]                             | ![][iRelp]        |
 
-| ![alt text][Easy Baby]                  | Caderneta! ([ver detalhes](#Caderneta)) | 
+| Easy Baby ([ver detalhes](#Easy Baby)) | Caderneta! ([ver detalhes](#Caderneta)) | 
 |:---------------------------------------:|:---------------------------------------:|
 | ![][EasyBaby]                           | ![][Caderneta]                          |
 
