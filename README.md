@@ -28,9 +28,9 @@
 |:-----------------------------------------------------------------------:|:--------------------------------------:|:-----------------:|
 | ![alt text][Drone Sensorial Controller]                                 | ![alt text][Easy Baby]                 | ![][iRelp]        |
 
-| Caderneta! ([ver detalhes](#Caderneta)) | HortiLIFE ([ver detalhes](#HortiLIFE)) |
+| ![alt text][Easy Baby]                  | Caderneta! ([ver detalhes](#Caderneta)) | HortiLIFE ([ver detalhes](#HortiLIFE)) |
 |:---------------------------------------:|:--------------------------------------:|
-| ![][Caderneta]                          | ![][Horti]                             |
+| ![][Easy Baby]                          | ![][Horti]                             |
 
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
