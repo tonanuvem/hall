@@ -32,12 +32,12 @@
 [Employee Manager]: https://github.com/afernandes130/76AOJ-ENGSWDEV-T2/blob/main/employee-ui/src/assets/images/brand.png?raw=true
 
 
-| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | Easy Baby ([ver detalhes](#Easy))  |
-|:-----------------------------------------------------------------------:|:----------------------------------------------------:|
-| ![alt text][Drone Sensorial Controller]                                 | ![alt text][blank]                                   |
+| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | Easy Baby ([ver detalhes](#EasyBaby))  |
+|:-----------------------------------------------------------------------:|:--------------------------------------:|
+| ![alt text][Drone Sensorial Controller]                                 | ![alt text][Easy Baby]                 |
 
 [Drone Sensorial Controller]: https://cdn.loom.com/sessions/thumbnails/64bb64d6feea469b8621d4a602ca2e5a-with-play.gif
-[Easy Baby]: https://youtu.be/EaVER_EhZ5g
+[Easy Baby]: https://github.com/anelynOvalle/easy-baby/blob/master/frontend/public/easy-baby.png?raw=true
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
 ----
@@ -112,7 +112,7 @@ Legal o do ELK para gestão centralizada de logs.
     <br>- https://github.com/afernandes130/76AOJ-ENGSWDEV-T2
 </details>
 
-### Easy Baby
+### EasyBaby
 UI bem organizada utilizando Next JS.
 <details>
   <br> Videos e/ou telas: <br>
