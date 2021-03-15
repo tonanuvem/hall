@@ -16,21 +16,21 @@
 
 # Videos e screens
 
-| MetWorking ([ver detalhes](#MetWorking))     |                                       | 
-|:--------------------------------------------:|:-------------------------------------:|
-| ![alt text][MetWorking]                      | ![alt text][blank]                    |
+| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | I-Relp ([ver detalhes](#I-Relp)) |
+|:-----------------------------------------------------------------------:|:-----------------:|
+| ![alt text][Drone Sensorial Controller]                                 |![][iRelp]         |
+
+| Easy Baby ([ver detalhes](#EasyBaby)) | Caderneta! ([ver detalhes](#Caderneta))  | Agendaê! ([ver detalhes](#Agendae))      | 
+|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+| ![][EasyBaby]                           | ![][Caderneta]                          | ![alt text][Agendae]                    |
 
 | Smart Sallon ([ver detalhes](#SmartSallon))  | Employee Manager ([ver detalhes](#EmployeeManager))  | HortiLIFE ([ver detalhes](#HortiLIFE)) |
 |:--------------------------------------------:|:----------------------------------------------------:|:--------------------------------------:|
 | ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        | ![][Horti]                             |
 
-| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | I-Relp ([ver detalhes](#I-Relp)) |
-|:-----------------------------------------------------------------------:|:-----------------:|
-| ![alt text][Drone Sensorial Controller]                                 |![][iRelp]         |
-
-| Easy Baby ([ver detalhes](#EasyBaby)) | Caderneta! ([ver detalhes](#Caderneta))  | Agendaê! ([ver detalhes](#Agendae))     | 
-|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-| ![][EasyBaby]                           | ![][Caderneta]                          | ![alt text][Agendae]                    |
+| MetWorking ([ver detalhes](#MetWorking))     |                                       |                                       | 
+|:--------------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| ![alt text][MetWorking]                      | ![alt text][blank]                    | ![alt text][blank]                    |
 
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
