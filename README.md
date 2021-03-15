@@ -16,21 +16,21 @@
 
 # Videos e screens
 
-| MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     | Caderneta! ([ver detalhes](#Caderneta)) |
-|:--------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-| ![alt text][MetWorking]                   | ![alt text][Agendae]                       | ![][Caderneta]                          |
+| MetWorking ([ver detalhes](#MetWorking))     | Agendaê! ([ver detalhes](#Agendae))     | 
+|:--------------------------------------------:|:---------------------------------------:|
+| ![alt text][MetWorking]                   | ![alt text][Agendae]                       |
 
 | Smart Sallon ([ver detalhes](#SmartSallon))  | Employee Manager ([ver detalhes](#EmployeeManager))  |
 |:--------------------------------------------:|:----------------------------------------------------:|
 | ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        |
 
-| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | Easy Baby ([ver detalhes](#EasyBaby))  | I-Relp ([ver detalhes](#I-Relp)) |
+| Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | HortiLIFE ([ver detalhes](#HortiLIFE))  | I-Relp ([ver detalhes](#I-Relp)) |
 |:-----------------------------------------------------------------------:|:--------------------------------------:|:-----------------:|
 | ![alt text][Drone Sensorial Controller]                                 | ![][Horti]                             | ![][iRelp]        |
 
-| ![alt text][Easy Baby]                  | Caderneta! ([ver detalhes](#Caderneta)) | HortiLIFE ([ver detalhes](#HortiLIFE)) |
-|:---------------------------------------:|:---------------------------------------:|:--------------------------------------:|
-| ![][EasyBaby]                           | ![][Caderneta]                          | ![][Horti]                             |
+| ![alt text][Easy Baby]                  | Caderneta! ([ver detalhes](#Caderneta)) | 
+|:---------------------------------------:|:---------------------------------------:|
+| ![][EasyBaby]                           | ![][Caderneta]                          |
 
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
