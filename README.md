@@ -44,7 +44,17 @@ Aguardando entregas.
 
 ## 2021 : 37 SCJ (4 trabalhos)
 
-Aguardando entregas.
+### Drone Sensorial Controller
+Front end em react com comunicação assíncrona usando RabbitMQ e backend usando Java/Spring, incluindo Actuators para monitoração.
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://www.loom.com/share/b86948b290b8490c9c44e98019f11f91
+    <br>- https://www.loom.com/share/30e400ed77334ea288f9bafebb6d4580
+    <br>- https://www.loom.com/share/8edf32012d624960898af84f86e10149
+    <br>- https://www.loom.com/share/64bb64d6feea469b8621d4a602ca2e5a -> Load Balance
+ <br><br> Repos: <br>
+    <br>- https://github.com/37scj/microservices-integration
+</details>
 
 ----
 
@@ -99,12 +109,6 @@ Legal o do ELK para gestão centralizada de logs.
  <br><br> Repos: <br>
     <br>- https://github.com/afernandes130/76AOJ-ENGSWDEV-T2
 </details>
-
-----
-
-## 2021 : 37 SCJ (4 trabalhos)
-
-Aguardando publicação.
 
 ----
 
