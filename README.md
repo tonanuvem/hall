@@ -112,6 +112,7 @@ Legal o do ELK para gestão centralizada de logs.
 </details>
 
 ### Easy Baby
+UI bem organizada utilizando Next JS.
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://www.youtube.com/watch?app=desktop&v=EaVER_EhZ5g
@@ -121,6 +122,7 @@ Legal o do ELK para gestão centralizada de logs.
 </details>
 
 ### HortiLIFE
+Front end mobile no final do vídeo.
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://drive.google.com/file/d/1quOdGuaitX0i_MNJW-HpCWdxwS1e0abA/view?usp=sharing
