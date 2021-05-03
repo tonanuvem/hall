@@ -94,6 +94,16 @@ Front-end legal com o uso do nginx como proxy reverso, uso do Quarkus em um dos 
     <br>- https://github.com/fecrodrigues/microservices
 </details>
 
+### easYInsurance
+Logs de auditoria por microservice.
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://www.loom.com/share/cc31a161543a44f49a8aa930e7dd8be0
+    <br>- https://www.loom.com/share/6960f41e8b3d482ab1c9e9a49fe58acf
+ <br><br> Repos: <br>
+    <br>- https://github.com/AyrtonHenrique/fiap-microservices
+</details>
+
 ----
 
 ## 2021 : ENGENHARIA DE SOFTWARE
