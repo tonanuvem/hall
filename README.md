@@ -106,7 +106,7 @@ Logs de auditoria por microservice.
 </details>
 
 ### Reise
-Uso de Roles para controlar perfis, uso do pipeline CI/CD com CircleCI para os testes automatizado via jest sobre o projeto next js.
+Uso de Roles para controlar perfis, uso do pipeline CI/CD com CircleCI para os testes automatizado via jest sobre o projeto next js. Utilização do Kubernetes com a demonstração da ferramenta Komposer para trasnformar os arquivos YAMLs.
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://www.loom.com/share/0ef778fc6d574379a75b26066f36dbc9
