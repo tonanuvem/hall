@@ -32,11 +32,10 @@
 |:--------------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | ![alt text][MetWorking]                      | ![alt text][Arremate]                 | ![alt text][JusNexo]                  |
 
-<!--
-| Exemplo                               ||                                       ||                                       |
-|:-------------------------------------:||:-------------------------------------:||:-------------------------------------:|
-| ![alt text][blank]                    || ![alt text][blank]                    || ![alt text][blank]                    |
--->
+| easYInsurance ([ver detalhes](#easYInsurance)) |                                  |                                       |
+|:----------------------------------------------:|:--------------------------------:|:-------------------------------------:|
+| ![alt text][easYInsurance]                     | ![alt text][blank]               | ![alt text][blank]                    |
+
 
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
@@ -49,6 +48,7 @@
 [Horti]: https://github.com/valrsilva/fiap_hortilife/blob/master/_frontend/app/site/image/bg.png?raw=true
 [Arremate]: https://cdn.loom.com/sessions/thumbnails/09c365febecf473785258c7f6e610a11-with-play.gif
 [JusNexo]: https://cdn.loom.com/sessions/thumbnails/public/12cd4ead70584d5494368db5dc628be3-with-play.gif
+[easYInsurance]: https://cdn.loom.com/sessions/thumbnails/cc31a161543a44f49a8aa930e7dd8be0-with-play.gif
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
 ----
