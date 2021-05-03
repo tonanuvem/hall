@@ -28,9 +28,13 @@
 |:--------------------------------------------:|:----------------------------------------------------:|:--------------------------------------:|
 | ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        | ![][Horti]                             |
 
-| MetWorking ([ver detalhes](#MetWorking))     | Arremate ([ver detalhes](#Arremate))  |                                       | 
+| MetWorking ([ver detalhes](#MetWorking))     | Arremate ([ver detalhes](#Arremate))  | JusNexo ([ver detalhes](#JusNexo))    | 
 |:--------------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| ![alt text][MetWorking]                      | ![alt text][Arremate]                 | ![alt text][blank]                    |
+| ![alt text][MetWorking]                      | ![alt text][Arremate]                 | ![alt text][JusNexo]                  |
+
+|                                       ||                                       ||                                       |
+|:-------------------------------------:||:-------------------------------------:||:-------------------------------------:|
+| ![alt text][blank]                    || ![alt text][blank]                    || ![alt text][blank]                    |
 
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
@@ -42,6 +46,7 @@
 [iRelp]: https://cdn.loom.com/sessions/thumbnails/e5ed612e27c84047bee4c052d2a4e4c2-with-play.gif
 [Horti]: https://github.com/valrsilva/fiap_hortilife/blob/master/_frontend/app/site/image/bg.png?raw=true
 [Arremate]: https://cdn.loom.com/sessions/thumbnails/09c365febecf473785258c7f6e610a11-with-play.gif
+[JusNexo]: https://cdn.loom.com/sessions/thumbnails/public/12cd4ead70584d5494368db5dc628be3-with-play.gif
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
 ----
@@ -76,6 +81,15 @@ Front end Mobile com comunicação assíncrona usando RabbitMQ, incluindo notifi
     <br>- https://github.com/adcrfiap/arremateApp.git
     <br>
     <br>- https://github.com/adcrfiap/arremate-kubernetes.git
+</details>
+
+### Arremate
+Front end Mobile com comunicação assíncrona usando RabbitMQ, incluindo notificação com Slack.
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://www.loom.com/share/12cd4ead70584d5494368db5dc628be3
+ <br><br> Repos: <br>
+    <br>- https://github.com/fecrodrigues/microservices
 </details>
 
 ----
