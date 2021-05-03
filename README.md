@@ -32,9 +32,9 @@
 |:--------------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | ![alt text][MetWorking]                      | ![alt text][Arremate]                 | ![alt text][JusNexo]                  |
 
-| easYInsurance ([ver detalhes](#easYInsurance)) |                                  |                                       |
+| easYInsurance ([ver detalhes](#easYInsurance)) | Reise ([ver detalhes](#Reise))   |                                       |
 |:----------------------------------------------:|:--------------------------------:|:-------------------------------------:|
-| ![alt text][easYInsurance]                     | ![alt text][blank]               | ![alt text][blank]                    |
+| ![alt text][easYInsurance]                     | ![alt text][Reise]               | ![alt text][blank]                    |
 
 
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
@@ -49,6 +49,7 @@
 [Arremate]: https://cdn.loom.com/sessions/thumbnails/09c365febecf473785258c7f6e610a11-with-play.gif
 [JusNexo]: https://cdn.loom.com/sessions/thumbnails/public/12cd4ead70584d5494368db5dc628be3-with-play.gif
 [easYInsurance]: https://cdn.loom.com/sessions/thumbnails/cc31a161543a44f49a8aa930e7dd8be0-with-play.gif
+[Reise]: https://cdn.loom.com/sessions/thumbnails/0ef778fc6d574379a75b26066f36dbc9-with-play.gif
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
 ----
@@ -102,6 +103,16 @@ Logs de auditoria por microservice.
     <br>- https://www.loom.com/share/6960f41e8b3d482ab1c9e9a49fe58acf
  <br><br> Repos: <br>
     <br>- https://github.com/AyrtonHenrique/fiap-microservices
+</details>
+
+### Reise
+Uso de Roles para controlar perfis, uso do pipeline CI/CD com CircleCI para os testes automatizado via jest sobre o projeto next js.
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://www.loom.com/share/0ef778fc6d574379a75b26066f36dbc9
+    <br>- https://www.loom.com/share/a28bd4072b6445609fc8a3db152db272
+ <br><br> Repos: <br>
+    <br>- https://github.com/DougGoncalves/nestjs_api
 </details>
 
 ----
