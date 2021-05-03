@@ -32,9 +32,11 @@
 |:--------------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | ![alt text][MetWorking]                      | ![alt text][Arremate]                 | ![alt text][JusNexo]                  |
 
+<!--
 | Exemplo                               ||                                       ||                                       |
 |:-------------------------------------:||:-------------------------------------:||:-------------------------------------:|
 | ![alt text][blank]                    || ![alt text][blank]                    || ![alt text][blank]                    |
+-->
 
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
@@ -83,8 +85,8 @@ Front end Mobile com comunicação assíncrona usando RabbitMQ, incluindo notifi
     <br>- https://github.com/adcrfiap/arremate-kubernetes.git
 </details>
 
-### Arremate
-Front end Mobile com comunicação assíncrona usando RabbitMQ, incluindo notificação com Slack.
+### JusNexo
+Front-end legal com o uso do nginx como proxy reverso, uso do Quarkus em um dos backends e python para demonstrar que é um projeto poliglota. Demonstração do uso do Cluster Swarm.
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://www.loom.com/share/12cd4ead70584d5494368db5dc628be3
