@@ -28,9 +28,9 @@
 |:--------------------------------------------:|:----------------------------------------------------:|:--------------------------------------:|
 | ![alt text][Smart Sallon]                    | ![alt text][Employee Manager]                        | ![][Horti]                             |
 
-| MetWorking ([ver detalhes](#MetWorking))     |                                       |                                       | 
+| MetWorking ([ver detalhes](#MetWorking))     | Arremate ([ver detalhes](#Arremate))  |                                       | 
 |:--------------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| ![alt text][MetWorking]                      | ![alt text][blank]                    | ![alt text][blank]                    |
+| ![alt text][MetWorking]                      | ![alt text][Arremate]                 | ![alt text][blank]                    |
 
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
@@ -41,6 +41,7 @@
 [EasyBaby]: https://github.com/anelynOvalle/easy-baby/blob/master/frontend/public/easy-baby.png?raw=true
 [iRelp]: https://cdn.loom.com/sessions/thumbnails/e5ed612e27c84047bee4c052d2a4e4c2-with-play.gif
 [Horti]: https://github.com/valrsilva/fiap_hortilife/blob/master/_frontend/app/site/image/bg.png?raw=true
+[Arremate]: https://cdn.loom.com/sessions/thumbnails/09c365febecf473785258c7f6e610a11-with-play.gif
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
 ----
@@ -59,6 +60,22 @@ Front end em react com comunicação assíncrona usando RabbitMQ e backend usand
     <br>- https://www.loom.com/share/64bb64d6feea469b8621d4a602ca2e5a -> Load Balance
  <br><br> Repos: <br>
     <br>- https://github.com/37scj/microservices-integration
+</details>
+
+### Arremate
+Front end Mobile com comunicação assíncrona usando RabbitMQ, incluindo notificação com Slack.
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://www.loom.com/share/09c365febecf473785258c7f6e610a11
+    <br>- https://www.loom.com/share/eea5fb6a1e1e445c821e7f67b028d6f7
+ <br><br> Repos: <br>
+    <br>- https://github.com/adcrfiap/ms-intencao.git
+    <br>- https://github.com/adcrfiap/ms-produto.git
+    <br>- https://github.com/adcrfiap/ms-notificacao.git
+    <br>- https://github.com/adcrfiap/ms-comprador.git
+    <br>- https://github.com/adcrfiap/arremateApp.git
+    <br>
+    <br>- https://github.com/adcrfiap/arremate-kubernetes.git
 </details>
 
 ----
