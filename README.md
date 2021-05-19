@@ -133,7 +133,7 @@ Front-end ficou muito bom. Specflow para testes de integração com diversos cen
 </details>
 
 ### Agendaê
-Pipeline baseado em Github actions e bem legal a ideia do CQRS.
+Pipeline baseado em Github actions e bem legal a ideia do CQRS. Construído em Node JS.
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://www.loom.com/share/123aaeae32f943c7870dadfc280d5382
