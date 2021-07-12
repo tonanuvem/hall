@@ -20,9 +20,9 @@
 |:---------------------------------------:|:---------------------------------------:|
 | ![][BrinkEduca]                           | ![][Easyecom]                          |
 
-| Vety e-commerce([ver detalhes](#Vety)) | Easy-Ecom ([ver detalhes](#EasyEcomm))  |  
+| Vety e-commerce([ver detalhes](#Vety)) | FindFixer ([ver detalhes](#FindFixer))  |  
 |:---------------------------------------:|:---------------------------------------:|
-| ![][Vety]                           | ![][Easyecom]                          |
+| ![][Vety]                           | ![][FindFixer]                          |
 
 | Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | I-Relp ([ver detalhes](#I-Relp)) |
 |:-----------------------------------------------------------------------:|:-----------------:|
@@ -48,6 +48,7 @@
 [BrinkEduca]: https://cdn.loom.com/sessions/thumbnails/6c4451ffae364fafb445c689010ea1f5-with-play.gif
 [Easyecom]: https://img.youtube.com/vi/f6ky276GYNs/0.jpg
 [Vety]: https://cdn.loom.com/sessions/thumbnails/cb54b24c37e34741b23aaa67de15c8df-with-play.gif
+[FindFixer]: https://cdn.loom.com/sessions/thumbnails/5f4b17f969f84f7484c50381ac766261-with-play.gif
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Caderneta]: https://github.com/sironAzevedo/caderneta-front/blob/daf5721a66caab7f6ddc862802ffaa6f0065327b/src/assets/img/logo.png?raw=true
@@ -155,6 +156,15 @@ Logs centralizados usando o Sentry e demonstração no play-with-docker. Projeto
     <br>- https://www.loom.com/share/cb54b24c37e34741b23aaa67de15c8df
  <br><br> Repos: <br>
     <br>- https://github.com/andersonwa/mba-microservicos
+</details>
+
+###  FindFixer
+Pipeline CI/CD completo utilizando Jenkins, separando os repositórios. Utilizou a interface gráfica Kowl para demonstração das mensagens recebidas pelo Kafka.
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://www.loom.com/share/5f4b17f969f84f7484c50381ac766261
+ <br><br> Repos: <br>
+    <br>- https://github.com/findfixer/ms-help-desk
 </details>
 
 ### MetWorking
