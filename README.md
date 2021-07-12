@@ -16,6 +16,10 @@
 
 # Videos e screens
 
+| BrinkEduca e-commerce([ver detalhes](#BrinkEduca)) | Caderneta! ([ver detalhes](#Caderneta))  | Agendaê! ([ver detalhes](#Agendae))      | 
+|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+| ![][BrinkEduca]                           | ![][Caderneta]                          | ![alt text][Agendae]                    |
+
 | Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | I-Relp ([ver detalhes](#I-Relp)) |
 |:-----------------------------------------------------------------------:|:-----------------:|
 | ![alt text][Drone Sensorial Controller]                                 |![][iRelp]         |
