@@ -16,9 +16,9 @@
 
 # Videos e screens
 
-| BrinkEduca e-commerce([ver detalhes](#BrinkEduca)) | Caderneta! ([ver detalhes](#Caderneta))  | Agendaê! ([ver detalhes](#Agendae))      | 
+| BrinkEduca e-commerce([ver detalhes](#BrinkEduca)) | Easy-Ecom ([ver detalhes](#EasyEcomm))  | Agendaê! ([ver detalhes](#Agendae))      | 
 |:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-| ![][BrinkEduca]                           | ![][Caderneta]                          | ![alt text][Agendae]                    |
+| ![][BrinkEduca]                           | ![][Easyecom]                          | ![alt text][Agendae]                    |
 
 | Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | I-Relp ([ver detalhes](#I-Relp)) |
 |:-----------------------------------------------------------------------:|:-----------------:|
@@ -42,6 +42,7 @@
 
 
 [BrinkEduca]: https://cdn.loom.com/sessions/thumbnails/6c4451ffae364fafb445c689010ea1f5-with-play.gif
+[Easyecom]: https://img.youtube.com/vi/f6ky276GYNs/0.jpg
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Caderneta]: https://github.com/sironAzevedo/caderneta-front/blob/daf5721a66caab7f6ddc862802ffaa6f0065327b/src/assets/img/logo.png?raw=true
@@ -131,6 +132,15 @@ Baseado no e-commerce da Amazon, a topologia com o design técnico do projeto co
     <br>- https://www.loom.com/share/6c4451ffae364fafb445c689010ea1f5
  <br><br> Repos: <br>
     <br>- https://github.com/marciojg/microservice-architecture
+</details>
+
+###  EasyEcomm
+CI/CD baseado em Github Actions. Front-end bacana com o uso de Local Storage dos navegadores pensando em experiência do usuário. Demonstrada a falha de microsserviços e resiliência na interface do usuário.
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://www.youtube.com/watch?v=f6ky276GYNs
+ <br><br> Repos: <br>
+    <br>- https://github.com/vNNi/Easy-ecom/
 </details>
 
 ### MetWorking
