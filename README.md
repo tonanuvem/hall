@@ -37,6 +37,7 @@
 | ![alt text][easYInsurance]                     | ![alt text][Reise]               | ![alt text][blank]                    |
 
 
+[BrinkEduca]: https://cdn.loom.com/sessions/thumbnails/6c4451ffae364fafb445c689010ea1f5-with-play.gif
 [MetWorking]: https://img.youtube.com/vi/9qyUK8s4q6s/0.jpg
 [Agendae]: https://cdn.loom.com/sessions/thumbnails/123aaeae32f943c7870dadfc280d5382-with-play.gif
 [Caderneta]: https://github.com/sironAzevedo/caderneta-front/blob/daf5721a66caab7f6ddc862802ffaa6f0065327b/src/assets/img/logo.png?raw=true
@@ -118,6 +119,15 @@ Uso de Roles para controlar perfis, uso do pipeline CI/CD com CircleCI para os t
 ----
 
 ## 2021 : ENGENHARIA DE SOFTWARE
+
+###  BrinkEduca
+Baseado no e-commerce da Amazon, a topologia com o design técnico do projeto contemplando todas as mensagens que fazem parte do domínio!! Uso da interface gráfica Kafdrop! É possível seguir os passos utilizando o Play-with-docker.
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://www.loom.com/share/6c4451ffae364fafb445c689010ea1f5
+ <br><br> Repos: <br>
+    <br>- https://github.com/marciojg/microservice-architecture
+</details>
 
 ### MetWorking
 Front-end ficou muito bom. Specflow para testes de integração com diversos cenários definidos nos .features (no github: MetWorkingMatchAPI/MetWorkingMatch.Test/)
