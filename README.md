@@ -16,9 +16,9 @@
 
 # Videos e screens
 
-| BrinkEduca e-commerce([ver detalhes](#BrinkEduca)) | Easy-Ecom ([ver detalhes](#EasyEcomm))  | Agendaê! ([ver detalhes](#Agendae))      | 
-|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-| ![][BrinkEduca]                           | ![][Easyecom]                          | ![alt text][Agendae]                    |
+| BrinkEduca e-commerce([ver detalhes](#BrinkEduca)) | Easy-Ecom ([ver detalhes](#EasyEcomm))  |  
+|:---------------------------------------:|:---------------------------------------:|
+| ![][BrinkEduca]                           | ![][Easyecom]                          |
 
 | Drone Sensorial Controller ([ver detalhes](#DroneSensorialController))  | I-Relp ([ver detalhes](#I-Relp)) |
 |:-----------------------------------------------------------------------:|:-----------------:|
