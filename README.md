@@ -101,8 +101,6 @@ Front end Mobile com comunicação assíncrona usando RabbitMQ, incluindo notifi
 ### JusNexo
 Front-end legal com o uso do nginx como proxy reverso, uso do Quarkus em um dos backends e python para demonstrar que é um projeto poliglota. Demonstração do uso do Cluster Swarm.
 <details>
-  <br> Videos e/ou telas: <br>
-    <br>- https://www.loom.com/share/12cd4ead70584d5494368db5dc628be3
  <br><br> Repos: <br>
     <br>- https://github.com/fecrodrigues/microservices
 </details>
