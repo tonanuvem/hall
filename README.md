@@ -40,9 +40,9 @@
 |:--------------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | ![alt text][MetWorking]                      | ![alt text][Arremate]                 | ![alt text][JusNexo]                  |
 
-| easYInsurance ([ver detalhes](#easYInsurance)) | Reise ([ver detalhes](#Reise))   |                                       |
+| easYInsurance ([ver detalhes](#easYInsurance)) | Reise ([ver detalhes](#Reise))   |  Van Certa                            |
 |:----------------------------------------------:|:--------------------------------:|:-------------------------------------:|
-| ![alt text][easYInsurance]                     | ![alt text][Reise]               | ![alt text][blank]                    |
+| ![alt text][easYInsurance]                     | ![alt text][Reise]               | ![alt text][VanCerta]                 |
 
 
 [BrinkEduca]: https://cdn.loom.com/sessions/thumbnails/6c4451ffae364fafb445c689010ea1f5-with-play.gif
@@ -62,11 +62,24 @@
 [JusNexo]: https://cdn.loom.com/sessions/thumbnails/public/12cd4ead70584d5494368db5dc628be3-with-play.gif
 [easYInsurance]: https://cdn.loom.com/sessions/thumbnails/cc31a161543a44f49a8aa930e7dd8be0-with-play.gif
 [Reise]: https://cdn.loom.com/sessions/thumbnails/0ef778fc6d574379a75b26066f36dbc9-with-play.gif
+[VanCerta]: https://img.youtube.com/vi/7Wawn0VPjhg/0.jpg
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
 ----
   
 # Repositorios e detalhes
+
+## 2022 : FULL STACK DEVELOPMENT
+
+### Van Certa
+Utilização da API do Twilio para validar a criação de contas na aplicação. Front-end feito em React e Back-end feito em Java, utilizando diversos componentes do Spring, tais como Configuration, OpenFeign, Eureka, Load Balance, API Gateway.
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://www.youtube.com/watch?v=7Wawn0VPjhg
+ <br><br> Repos: <br>
+    <br>- https://github.com/diasRibeirao/41scj-microservices-dev-fe : Front end
+    <br>- https://github.com/diasRibeirao/41scj-microservices-dev-be : Back end
+</details>
 
 ## 2021 : FULL STACK DEVELOPMENT
 
