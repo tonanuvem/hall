@@ -40,7 +40,7 @@
 |:--------------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | ![alt text][MetWorking]                      | ![alt text][Arremate]                 | ![alt text][JusNexo]                  |
 
-| easYInsurance ([ver detalhes](#easYInsurance)) | Reise ([ver detalhes](#Reise))   |  Van Certa                            |
+| easYInsurance ([ver detalhes](#easYInsurance)) | Reise ([ver detalhes](#Reise))   |  Van Certa ([ver detalhes](#VanCerta))|
 |:----------------------------------------------:|:--------------------------------:|:-------------------------------------:|
 | ![alt text][easYInsurance]                     | ![alt text][Reise]               | ![alt text][VanCerta]                 |
 
@@ -71,7 +71,7 @@
 
 ## 2022 : FULL STACK DEVELOPMENT
 
-### Van Certa
+### VanCerta
 Utilização da API do Twilio para validar a criação de contas na aplicação. Front-end feito em React e Back-end feito em Java, utilizando diversos componentes do Spring, tais como Configuration, OpenFeign, Eureka, Load Balance, API Gateway.
 <details>
   <br> Videos e/ou telas: <br>
