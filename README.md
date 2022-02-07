@@ -46,7 +46,7 @@
 
 | MovingTips ([ver detalhes](#movingtips))       |                                  |                                       |
 |:----------------------------------------------:|:--------------------------------:|:-------------------------------------:|
-| ![alt text][MovingTips]                        |                                  |                                       |
+| ![][MovingTips]                                |                                  |                                       |
 
 
 [BrinkEduca]: https://cdn.loom.com/sessions/thumbnails/6c4451ffae364fafb445c689010ea1f5-with-play.gif
