@@ -44,6 +44,10 @@
 |:----------------------------------------------:|:--------------------------------:|:-------------------------------------:|
 | ![alt text][easYInsurance]                     | ![alt text][Reise]               | ![alt text][VanCerta]                 |
 
+| MovingTips ([ver detalhes](#movingtips))       |                                  |                                       |
+|:----------------------------------------------:|:--------------------------------:|:-------------------------------------:|
+| ![alt text][MovingTips]                        |                                  |                                       |
+
 
 [BrinkEduca]: https://cdn.loom.com/sessions/thumbnails/6c4451ffae364fafb445c689010ea1f5-with-play.gif
 [Easyecom]: https://img.youtube.com/vi/f6ky276GYNs/0.jpg
@@ -63,6 +67,7 @@
 [easYInsurance]: https://cdn.loom.com/sessions/thumbnails/cc31a161543a44f49a8aa930e7dd8be0-with-play.gif
 [Reise]: https://cdn.loom.com/sessions/thumbnails/0ef778fc6d574379a75b26066f36dbc9-with-play.gif
 [VanCerta]: https://img.youtube.com/vi/7Wawn0VPjhg/0.jpg
+[MovingTips]: https://img.youtube.com/vi/1qRZET91--EZhmshC4MjTQvNSXbKpgmoz/0.jpg
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
 ----
@@ -70,6 +75,16 @@
 # Repositorios e detalhes
 
 ## 2022 : FULL STACK DEVELOPMENT
+
+### MovingTips
+Parabéns! Achei muito legal a utilização da Azure DevOps para Pipeline CI/CD. Gostei também de terem implantado o app em Nuvem, inclusive com a criação do domínio: https://www.movingtips.com.br/
+<details>
+  <br> Videos e/ou telas: <br>
+    <br>- https://www.movingtips.com.br/
+    <br>- https://drive.google.com/file/d/1qRZET91--EZhmshC4MjTQvNSXbKpgmoz/view
+ <br><br> Repos: <br>
+    <br>- https://github.com/Moving-Tips/moving-tips-front : Front end
+</details>
 
 ### VanCerta
 Utilização da API do Twilio para validar a criação de contas na aplicação. Front-end feito em React e Back-end feito em Java, utilizando diversos componentes do Spring, tais como Configuration, OpenFeign, Eureka, Load Balance, API Gateway.
