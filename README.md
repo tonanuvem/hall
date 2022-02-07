@@ -67,7 +67,7 @@
 [easYInsurance]: https://cdn.loom.com/sessions/thumbnails/cc31a161543a44f49a8aa930e7dd8be0-with-play.gif
 [Reise]: https://cdn.loom.com/sessions/thumbnails/0ef778fc6d574379a75b26066f36dbc9-with-play.gif
 [VanCerta]: https://img.youtube.com/vi/7Wawn0VPjhg/0.jpg
-[MovingTips]: https://img.youtube.com/vi/1qRZET91--EZhmshC4MjTQvNSXbKpgmoz/0.jpg
+[MovingTips]: https://www.movingtips.com.br/static/media/logo.5b37528b.png
 [blank]: https://www.autmillennium.org.nz/wp-content/uploads/2020/01/White-Square.png
 
 ----
