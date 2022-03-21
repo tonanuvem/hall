@@ -87,10 +87,11 @@ Parabéns! Achei muito legal a utilização da Azure DevOps para Pipeline CI/CD.
 </details>
 
 ### VanCerta
-Utilização da API do Twilio para validar a criação de contas na aplicação. Front-end feito em React e Back-end feito em Java, utilizando diversos componentes do Spring, tais como Configuration, OpenFeign, Eureka, Load Balance, API Gateway.
+Utilização da API do Twilio para validar a criação de contas na aplicação. Front-end feito em React e Back-end feito em Java, utilizando diversos componentes do Spring, tais como Configuration, OpenFeign, Eureka, Load Balance, API Gateway. Projeto foi executado no Kubernetes usando Rancher. 
 <details>
   <br> Videos e/ou telas: <br>
     <br>- https://www.youtube.com/watch?v=7Wawn0VPjhg
+    <br>- https://www.youtube.com/watch?v=Vl4Np-R7mho : Rodando o projeto no Kubernetes usando Rancher
  <br><br> Repos: <br>
     <br>- https://github.com/diasRibeirao/41scj-microservices-dev-fe : Front end
     <br>- https://github.com/diasRibeirao/41scj-microservices-dev-be : Back end
